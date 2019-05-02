@@ -2,6 +2,8 @@
 
 global.$ = {
     gulp: require('gulp'),
+    htmlbeautify: require('gulp-html-beautify'),
+    plumber:      require('gulp-plumber'),
     gp: require('gulp-load-plugins')(),
     bs: require('browser-sync').create(),
 

@@ -1,8 +1,16 @@
-extends ../layout/main
+extends ../layout/head
 
 block variables
-    - var pageTitle = "123"
-    - var youAreUsingPug = true
+    - var pageTitle = "Document"
 
-block content
-    .container Less работает!!!
+block head
+   include ../modules/header/header
+   include ../modules/nav
+   include ../modules/promo
+   include ../modules/sale
+   include ../modules/product-box
+   include ../modules/offer
+   include ../modules/feedback
+   include ../modules/footer
+   include ../modules/copyright
+   
