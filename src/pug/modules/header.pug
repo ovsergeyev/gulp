@@ -1,12 +1,19 @@
-mixin navLink(link,name)
-    li
-        a(href=link).nav-link=name
-
-header
-    .header
-        ul.nav
-            +navLink('#', '1')
-            +navLink('#', '2')
-            +navLink('#', '3')
-            +navLink('#', '4')
-            +navLink('#', '5')
+//Block header
+header.header
+    .container.header-flex
+        .header__left
+            div.logo
+                a(href="#")
+                    img(src="img/logo.png", alt="logo")
+                    p BRAN
+                        span D 
+            .search-form
+                form.search-form__form
+                    .search-form__browse Browse
+                    input.search-form__input(type=text, placeholder="Search for Item...")
+                    button.search-form__button
+        .header__right
+            .top-cart
+                img.cart
+                a.button My Account
+//End block header

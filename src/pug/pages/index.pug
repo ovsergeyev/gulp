@@ -1,16 +1,16 @@
-extends ../layout/head
+extends ../templates/head
 
-block variables
-    - var pageTitle = "Document"
-
-block head
-   include ../modules/header/header
-   include ../modules/nav
-   include ../modules/promo
-   include ../modules/sale
-   include ../modules/product-box
-   include ../modules/offer
-   include ../modules/feedback
-   include ../modules/footer
-   include ../modules/copyright
-   
+block append config
+    //-
+    
+block content
+    include ../modules/header
+    include ../modules/nav
+    include ../modules/promo
+    include ../modules/sale
+    include ../modules/product-box
+    include ../modules/offer
+    include ../modules/feedback
+    include ../modules/footer
+    include ../modules/copyright
+    
