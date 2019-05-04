@@ -1,0 +1,21 @@
+extends ../templates/head
+
+block content
+    include ../modules/header
+    include ../modules/menu
+    include ../modules/breadcrumbs
+    
+    .content-wrap
+        include ../modules/sidebar
+        .content-inner
+            include ../modules/top-filter
+            include ../modules/product-box
+            include ../modules/pagination
+            
+    include ../modules/features
+    include ../modules/feedback
+    include ../modules/footer
+    include ../modules/copyright
+                
+    
+    

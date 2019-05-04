@@ -1,19 +1,14 @@
 //Block header
-header.header
-    .container.header-flex
+header.header.container.page__header
         .header__left
-            div.logo
-                a(href="#")
-                    img(src="img/logo.png", alt="logo")
-                    p BRAN
-                        span D 
-            .search-form
+            include ../modules/logo
+            .search-form.header__search-form
                 form.search-form__form
                     .search-form__browse Browse
                     input.search-form__input(type=text, placeholder="Search for Item...")
                     button.search-form__button
         .header__right
-            .top-cart
-                img.cart
-                a.button My Account
+            .cart
+                img(src="img/cart.svg").cart__img
+                a.button.cart__button My Account
 //End block header

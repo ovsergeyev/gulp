@@ -1,1 +1,17 @@
-.feedback
+//Block feedback
+.feedback-wrap.page__feedback-wrap
+    .container.feedback
+        .comment-wrap.feedback__comment-wrap
+            .comment.comment-wrap__comment
+                img(src="img/comment_face.png", alt="prev").comment__img
+                .comment__text
+                    blockquote.comment__blockquote “Vestibulum quis porttitor dui! Quisque viverra nunc mi, a pulvinar purus condimentum a. Aliquam condimentum mattis neque sed pretium”
+                    span.comment__name Bin Burhan
+                    span.comment__address Dhaka, Bd
+        .subscribe-wrap.feedback__subscribe-wrap
+            h2.subscribe-wrap__header Subscribe
+            p.subscribe-wrap__desc FOR OUR NEWLETTER AND PROMOTION
+            form(action="#").subscribe.subscribe-wrap__subscribe
+                input(type="text").subscribe__input
+                button(type="submit").subscribe__button Subscribe
+//End block feedback
