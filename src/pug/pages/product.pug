@@ -1,15 +1,19 @@
 extends ../templates/head
 
+block append style-link
+    link(href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet")
+
 block content
     include ../modules/header
     include ../modules/menu
     include ../modules/breadcrumbs
     
-    .content-wrap
+    .content-wrap.container.page__content-wrap
         include ../modules/sidebar
         .content-inner
-            include ../modules/top-filter
-            include ../modules/product-box
+            include ../modules/top-filter/top-filter
+            include ../modules/product-sort
+            include ../modules/product-box_product
             include ../modules/pagination
             
     include ../modules/features

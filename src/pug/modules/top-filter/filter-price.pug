@@ -1,0 +1,10 @@
+//Block filter-price
+.filter-price
+    h2.filter-price__header Price
+    .filter-price__box
+        input(type="range", id="filter-price", value=52, min=10, max=400).filter-price__range
+        .filter-price__value
+            span.filter-price__span $
+                output(for="filter-price").filter-price__output 52
+            span.filter-price__span $400
+//End block filter-price
