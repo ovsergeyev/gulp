@@ -1,0 +1,40 @@
+//Block check-register
+.check-register.checkwrap__check-register
+    .check-register__left
+        h3.check-register__title Check as a guest or register
+        p.check-register__text Register with us for future convenience
+        .check-register__radio-box
+            input(type="radio", id="guest", name="is_register").check-register__radio
+            label(for="guest").check-register__label CHECKOUT AS GUEST
+            input(type="radio", id="is_register", name="is_register" checked).check-register__radio
+            label(for="is_register").check-register__label REGISTER
+        h3.check-register__title register and save time!
+        p.check-register__text Register with us for future convenience
+        ul.check-register__ul
+            li.check-register__list
+                i(class="fas fa-angle-double-right")
+                |  Fast and easy checkout
+            li.check-register__list
+                i(class="fas fa-angle-double-right")
+                |  Easy access to your order history and status
+        a(href="#").check-register__button Continue
+    .check-register__right
+        h3.check-register__title Already registed?
+        p.check-register__text Please log in below
+        form.check-register__form
+            .check-register__input-box
+                label.check-register__label Email Address 
+                    span.pink *
+                    br
+                    input(type="email" required).check-register__input-text
+                label.check-register__label Password 
+                    span.pink *
+                    br
+                    input(type="password" required).check-register__input-text
+            p.check-register__text
+                span.pink * Required Fileds
+            button(type="submit").check-register__button Log in
+            a(href="#").check-register__link Forgot Password?
+        
+        
+//End block check-register

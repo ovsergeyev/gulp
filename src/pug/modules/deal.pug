@@ -1,0 +1,24 @@
+//Block deal
+.deal.page__deal.container
+    .deal__address
+        h3.deal__title Shipping Adress
+        form(action="#").deal__form
+            select.deal__select
+                option Bangladesh
+                option Germany
+                option USA
+            input(type="text", value="State").deal__input
+            input(type="text", value="Postcode / Zip").deal__input
+            button(type="submit").deal__button get a quote
+    .deal__coupon
+        h3.deal__title coupon discount
+        p.deal__text Enter your coupon code if you have one
+        form(action="#").deal__form
+            input(type="text", value="State").deal__input
+            button(type="submit").deal__button Apply coupon
+    .deal__check
+        .deal__total
+            p.deal__sub-total Sub total $900
+            p.deal__grand-total GRAND TOTAL $900
+        a(href="#").deal__check-button Proceed to checkout
+//End block deal
