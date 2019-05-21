@@ -1,0 +1,8 @@
+//- var items = ["vk", "facebook-f", "twitter", "linkedin-in", "pinterest-p", "google-plus-g"]
+- var items = ["facebook-f", "twitter", "linkedin-in", "pinterest-p", "google-plus-g"]
+
+ul.socials
+    each item in items
+        li.socials__li
+            a(href="#").socials__link
+                i(class="fab fa-"+ item)

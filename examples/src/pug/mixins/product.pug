@@ -1,0 +1,9 @@
+mixin product(name, price, link, imgsrc)
+    .product.product-box__product
+        a(href=""+link).product__link
+            .product__img-box
+                img(src=""+imgsrc alt="product").product__img
+            .product__text
+                a(href=""+link).product__name= name
+                a(herf=""+link).product__price= price
+            a(href=""+link).product__add Add to Cart

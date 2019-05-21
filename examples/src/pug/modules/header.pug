@@ -1,0 +1,17 @@
+//Block header
+header.header.page__header
+    .header__inner.container
+        .header__left
+            include ../modules/logo
+            .search-form.header__search-form
+                form.search-form__form
+                    .search-form__browse Browse
+                        include menu/drop-browse
+                    input.search-form__input(type=text, placeholder="Search for Item...")
+                    button.search-form__button
+        .header__right
+            .cart
+                img(src="img/cart.svg").cart__img
+                a.button.cart__button My Account
+                    i(class="fas fa-caret-down").cart__i
+//End block header

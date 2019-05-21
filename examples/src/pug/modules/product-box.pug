@@ -1,0 +1,20 @@
+//Block product-box
+include ../mixins/product
+
+section.product-box.container.page__product-box
+    h2.product-box__title Fetured Items
+    p.product-box__subtitle Shop for items based on what we featured in this week
+    .product-box__inner
+        +product('Mango People T-shirt', '$52.00', '#', 'img/product1.jpg')
+        +product('Mango People T-shirt', '$52.00', '#', 'img/product2.jpg')
+        +product('Mango People T-shirt', '$52.00', '#', 'img/product3.jpg')
+        +product('Mango People T-shirt', '$52.00', '#', 'img/product4.jpg')
+        +product('Mango People T-shirt', '$52.00', '#', 'img/product5.jpg')
+        +product('Mango People T-shirt', '$52.00', '#', 'img/product6.jpg')
+        +product('Mango People T-shirt', '$52.00', '#', 'img/product7.jpg')
+        +product('Mango People T-shirt', '$52.00', '#', 'img/product8.jpg')
+        
+    a(href="#").button.product-box__button Browse All Product
+        i(class="fas fa-long-arrow-right")
+        img(src="../img/long-arrow-right.png") 
+//End block product-box

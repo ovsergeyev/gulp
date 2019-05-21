@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fff63356-bb10-4a8d-8351-35a134b593d5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/less/main.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/less/main.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/mixins/advantage__li.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/mixins/product.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/advantage.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/breadcrumbs.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/cart-buttons.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/cart-table.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/check-register.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/check-wrap.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/copyright.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/deal.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/features.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/feedback.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/footer.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/header.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/logo.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/may-like.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/menu/drop-accoseriese.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/menu/drop-browse.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/menu/drop-deals.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/menu/drop-featured.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/menu/drop-kids.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/menu/drop-man.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/menu/drop-women.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/menu/menu.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/offer.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/pagination.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/product-box.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/product-box_product.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/product-card.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/product-sort.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/promo.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/sale.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/sidebar.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/slider.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/socials.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/top-filter/filter-price.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/top-filter/filter-size.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/top-filter/filter-trending.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/modules/top-filter/top-filter.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/checkout.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/index.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/product.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/shoping-cart.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/single.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/templates/head.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pug/includes/templates/head.pug" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/node_modules/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/src/less/main.less" />
+        <option value="$PROJECT_DIR$/src/pug/pages/index.pug" />
+        <option value="$PROJECT_DIR$/src/pug/includes/templates/head.pug" />
+        <option value="$PROJECT_DIR$/package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/gulp.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/deployment.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="720" />
+    <option name="width" value="720" />
+    <option name="height" value="860" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gulp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gulp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gulp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gulp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gulp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gulp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="less" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gulp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gulp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pug" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gulp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gulp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pug" type="462c0819:PsiDirectoryNode" />
+              <item name="includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gulp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gulp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pug" type="462c0819:PsiDirectoryNode" />
+              <item name="includes" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gulp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gulp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pug" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/examples" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OSPanel\domains\сборшики\gulp\src\pug\includes" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OSPanel\domains\сборшики\gulp\examples" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fff63356-bb10-4a8d-8351-35a134b593d5" name="Default Changelist" comment="" />
+      <created>1558426875669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558426875669</updated>
+      <workItem from="1558426878960" duration="840000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="840000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="npm" side_tool="true" />
+      <window_info id="Gulp" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3293011" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/less/main.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/src/js/main.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/less/includes/mixins.less">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/src/pug/pages/index.pug">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pug/pages/index.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pug/includes/templates/head.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
